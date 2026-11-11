@@ -14,10 +14,3 @@ dist/
 !BomDownloader.spec
 pyproject.toml
 installer.iss
-
-# Runtime & Scratch
-manuals/
-scratchpad/
-~$*.xlsx
-.claude/
-

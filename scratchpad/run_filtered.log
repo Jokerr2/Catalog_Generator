@@ -1,0 +1,936 @@
+
+  Reading BOM: BOM_filtered.xlsx
+
+================================================================
+  131 part(s) queued
+
+     1.  PROSOFT                    MVI56E-MNET-CC
+     2.  PROSOFT                    MVI56E-MCM-CC
+     3.  MTL                        MTL 5544
+     4.  MTL                        MTL 5561
+     5.  MTL                        MTL 5541
+     6.  MTL                        MTL 5549/Y
+     7.  MTL                        MTL 5516C
+     8.  HIMA                       F-BASE RACK 01
+     9.  HIMA                       F-CPU 01
+    10.  HIMA                       F-PWR 01
+    11.  HIMA                       F-PWR 02
+    12.  HIMA                       F-COM 01
+    13.  HIMA                       894000002
+    14.  HIMA                       F-BLK 01
+    15.  HIMA                       F-BASE RACK 11
+    16.  HIMA                       F-IOP 01
+    17.  HIMA                       F6217
+    18.  HIMA                       Z 7127/6217/C5/I/R
+    19.  HIMA                       F3236
+    20.  HIMA                       Z 7116/3236/C5/R
+    21.  HIMA                       F3330
+    22.  HIMA                       Z 7138/3330/C5
+    23.  HIMA                       Z 7138/3330/C5
+    24.  HIMA                       F3331
+    25.  HIMA                       Z 7138/3331/C5
+    26.  HIMA                       F3334
+    27.  HIMA                       Z 7134/3334/C5
+    28.  HIMA                       F7133
+    29.  HIMA                       K 9203A
+    30.  HIMA                       892131120
+    31.  HIMA                       892131130
+    32.  HIMA                       H7034
+    33.  CISCO                      IE-3300-8T2S-E
+    34.  CISCO                      GLC-FE-100LX-RGD
+    35.  MOXA                       EDS-316-SS-SC-T
+    36.  MOXA                       MB3270I-T
+    37.  HONEYWELL                  FC-PDB-0824P
+    38.  TRACO POWER                TEP 200-2415WIRCMF
+    39.  GMI                        D5096S
+    40.  WEIDMULLER                 1631930000
+    41.  WEIDMULLER                 1050000000
+    42.  WEIDMULLER                 1061200000
+    43.  WEIDMULLER                 1011300000
+    44.  WEIDMULLER                 1020300000
+    45.  WEIDMULLER                 1010300000
+    46.  WEIDMULLER                 1020500000
+    47.  WEIDMULLER                 1010500000
+    48.  WEIDMULLER                 1010500000
+    49.  WEIDMULLER                 1052460000
+    50.  WEIDMULLER                 545300000
+    51.  WEIDMULLER                 546040000
+    52.  WEIDMULLER                 7910180000
+    53.  WEIDMULLER                 1758260000
+    54.  WEIDMULLER                 1855610000
+    55.  WEIDMULLER                 1010000000
+    56.  WEIDMULLER                 8731640000
+    57.  SCHNEIDER                  A9XAH257
+    58.  SCHNEIDER                  A9A26924
+    59.  SCHNEIDER                  A9F44201
+    60.  SCHNEIDER                  A9F44202
+    61.  SCHNEIDER                  A9F44204
+    62.  SCHNEIDER                  A9F44210
+    63.  SCHNEIDER                  A9F44216
+    64.  SCHNEIDER                  A9F44263
+    65.  SCHNEIDER                  A9D31606
+    66.  SCHNEIDER                  A9F44206
+    67.  APOLLO (ALJAC)             76-601-01A
+    68.  AUTOCLAVE                  CB4401-SOG
+    69.  BUTECH                     KW204-23-23-SOG
+    70.  AUTOCLAVE                  30VM4001-SOG
+    71.  AUTOCLAVE                  30VM4005-SOG
+    72.  AUTOCLAVE                  3B3S09H4-SOG
+    73.  BARTON FIRTOP              YSF/BFI/015/NPT/351
+    74.  BIFOLD                     FP01/S3/M/32/NC/SA/77A-24D/30- H2S(M1046)
+    75.  BIFOLD                     FP10P-S3-04-32-NU-V-77A9-24D-57- 03
+    76.  BIS                        RL25-44AE-25N-15K
+    77.  EMERSON (ROSEMOUNT)        3051TG1A2B21BT1I1Q4Q8Q15RK
+    78.  DELTA                      43871CGAB6V30T157
+    79.  DELTA                      43871SEEB6G30T157
+    80.  DRAGER                     8317710 C/W 8317990, 8317270, 8317275, 8317617,6809610
+    81.  HYSTAT                     PA-6-760-100-SW80050
+    82.  HYDAC                      HPSSF700 ON 30AA 003 B.8/B6/N
+    83.  Parker                     IR4004SK3PX4B
+    84.  LUBEDEVICE                 G605-12-Y-1
+    85.  EUROPRESS                  PP113
+    86.  DYNEX                      PF511H-XVA-2-20
+    87.  OLIVER                     LPB1F50S/HL/NA
+    88.  OLIVER                     F25S
+    89.  STEWART BUCHANAN           0633AH41KB-DM
+    90.  STEWART BUCHANAN           2633AH41KB-DM
+    91.  STEWART BUCHANAN           06330325B-D
+    92.  TESCOM                     54-2061D44-002
+    93.  Proserv                    PF401F4Q-1V
+    94.  Parker                     AB98817011
+    95.  VERSA                      VSP-8402-316-PPR
+    96.  BIS                        3B25N-H1-IVNC-10K
+    97.  STEWART BUCHANAN           0112303400B-D
+    98.  STEWART BUCHANAN           06320325B-D
+    99.  OLIVER                     G12FFS
+   100.  DELTA                      43871SFCB6G30T157
+   101.  (no mfr)                   60LF4-40/20-SOG
+   102.  OLIVER                     B6FX50S/HL/NA
+   103.  OLIVER                     CV25S
+   104.  Swagelok                   SS-10M0-R-12M
+   105.  OLIVER                     DBB/IN/S/25F/25F/25F/NA
+   106.  CUSTOM                     CUSTOM
+   107.  CUSTOM                     CUSTOM
+   108.  MENNEKES                   RS 491-248
+   109.  BEKA                       BA507E
+   110.  CESP                       CES-EX-D-JX-30
+   111.  CEAG                       GHG2732000R0003
+   112.  WEIDMULLER                 1020000000
+   113.  WEIDMULLER                 1050000000
+   114.  WEIDMULLER                 1061200000
+   115.  WEIDMULLER                 0292460000
+   116.  WEIDMULLER                 1527730000
+   117.  CUSTOM                     CUSTOM
+   118.  WEIDMULLER                 1020000000
+   119.  WEIDMULLER                 1050000000
+   120.  WEIDMULLER                 1061200000
+   121.  WEIDMULLER                 292460000
+   122.  WEIDMULLER                 1194830000
+   123.  WEIDMULLER                 8731660000
+   124.  WEIDMULLER                 1050000000
+   125.  WEIDMULLER                 1061200000
+   126.  WEIDMULLER                 0292460000
+   127.  WEIDMULLER                 1194610000
+   128.  WEIDMULLER                 1020000000
+   129.  WEIDMULLER                 1050000000
+   130.  WEIDMULLER                 1061200000
+   131.  WEIDMULLER                 292460000
+
+  Folder  : D:\APP\BomDownloader\manuals
+  Engines : DirectProbe -> DDG
+  Workers : 5  |  Max per part : 1
+================================================================
+
+    [Search] PROSOFT MVI56E-MNET-CC: checking manufacturer sources…
+    [Search] PROSOFT MVI56E-MCM-CC: checking manufacturer sources…
+    [Search] MTL MTL 5544: checking manufacturer sources…
+    [Search] MTL MTL 5561: checking manufacturer sources…
+    [Search] MTL MTL 5541: checking manufacturer sources…
+    [DirectProbe] 1 hit(s) for MTL MTL 5541
+    [DirectProbe] 1 hit(s) for MTL MTL 5561
+    [Search] PROSOFT MVI56E-MNET-CC: no official docs yet — querying search engines…
+    [DirectProbe] 1 hit(s) for MTL MTL 5544
+    [Search] PROSOFT MVI56E-MCM-CC: no official docs yet — querying search engines…
+    [MfrPortal] MTL MTL 5541: 1 official doc(s) — skipping search engines
+    [MfrPortal] MTL MTL 5561: 1 official doc(s) — skipping search engines
+    [MfrPortal] MTL MTL 5544: 1 official doc(s) — skipping search engines
+    [MTL MTL 5541] [1/7] MTL 5541 (MTL)
+         https://www.mtl-inst.com/images/uploads/datasheets/4500_5500/MTLx541-S.pdf
+    [MTL MTL 5561] [1/7] MTL 5561 (MTL)
+         https://www.mtl-inst.com/images/uploads/datasheets/4500_5500/MTLx561.pdf
+         Saved: 005_MTL_MTL_5541__MTL_5541__MTL.pdf  (142 KB)
+         Verified: UNKNOWN  [1p, signals={'datasheet': 2}, part-match=exact, desc-match=4 keyword(s)]
+    [MTL MTL 5541] [2/7] MTLT305E datasheet
+         https://www.mouser.com/datasheet/3/2616/1/6020_3316_02_B_MTLT305E_Datasheet.pdf
+         Saved: 004_MTL_MTL_5561__MTL_5561__MTL.pdf  (138 KB)
+         Verified: UNKNOWN  [1p, signals={'datasheet': 2}, part-match=exact, desc-match=4 keyword(s)]
+    [MTL MTL 5561] [2/7] MTLT305E datasheet
+         https://www.mouser.com/datasheet/3/2616/1/6020_3316_02_B_MTLT305E_Datasheet.pdf
+    [MTL MTL 5544] [1/7] MTL 5544 (MTL)
+         https://www.mtl-inst.com/images/uploads/datasheets/4500_5500/MTLx544-S.pdf
+    [MTL MTL 5541] [3/7] LSEM-120-04.0-L-DV-A-N-K-TR datasheet
+         https://www.mouser.com/datasheet/3/85/1/lsem.pdf
+         Saved: 003_MTL_MTL_5544__MTL_5544__MTL.pdf  (143 KB)
+         Verified: UNKNOWN  [1p, signals={'datasheet': 2}, part-match=exact, desc-match=4 keyword(s)]
+    [MTL MTL 5544] [2/7] MTLT305E datasheet
+         https://www.mouser.com/datasheet/3/2616/1/6020_3316_02_B_MTLT305E_Datasheet.pdf
+    [MTL MTL 5561] [3/7] LSEM-120-04.0-L-DV-A-N-K-TR datasheet
+         https://www.mouser.com/datasheet/3/85/1/lsem.pdf
+    [MTL MTL 5541] [4/7] LSHM-150-04.0-L-DV-A-S-TR datasheet
+         https://www.mouser.com/datasheet/3/85/1/lshm_dv.pdf
+    [MTL MTL 5544] [3/7] LSEM-120-04.0-L-DV-A-N-K-TR datasheet
+         https://www.mouser.com/datasheet/3/85/1/lsem.pdf
+    [MTL MTL 5561] [4/7] LSHM-150-04.0-L-DV-A-S-TR datasheet
+         https://www.mouser.com/datasheet/3/85/1/lshm_dv.pdf
+    [MTL MTL 5541] [5/7] LSH-050-01-G-D-A datasheet
+         https://www.mouser.com/datasheet/3/85/1/lsh_lth.pdf
+    [MTL MTL 5544] [4/7] LSHM-150-04.0-L-DV-A-S-TR datasheet
+         https://www.mouser.com/datasheet/3/85/1/lshm_dv.pdf
+    [MTL MTL 5561] [5/7] LSH-050-01-G-D-A datasheet
+         https://www.mouser.com/datasheet/3/85/1/lsh_lth.pdf
+    [MTL MTL 5541] [6/7] MTLT335D datasheet
+         https://www.mouser.com/datasheet/3/2616/1/6020_3327_01_MTLT335_Datasheet.pdf
+    [MTL MTL 5544] [5/7] LSH-050-01-G-D-A datasheet
+         https://www.mouser.com/datasheet/3/85/1/lsh_lth.pdf
+    [SiteSearch:prosoft-technology.com] 2 candidate(s)
+    [SiteSearch] PROSOFT MVI56E-MCM-CC: 2 official doc(s) found — skipping further search
+    [PROSOFT MVI56E-MCM-CC] [1/2] Technical Note MVI56(E)-MCM & MCMXT Add-On Instruction Insta
+         https://www.prosoft-technology.com/content/download/4028/26207/file/MVI56(E)-MCM
+    [MTL MTL 5561] [6/7] MTLT335D datasheet
+         https://www.mouser.com/datasheet/3/2616/1/6020_3327_01_MTLT335_Datasheet.pdf
+    [MTL MTL 5541] [7/7] MTL206P datasheet
+         https://www.mouser.com/datasheet/3/2640/3/ENG_CD_3-1437559-7_D5.pdf
+    [MTL MTL 5544] [6/7] MTLT335D datasheet
+         https://www.mouser.com/datasheet/3/2616/1/6020_3327_01_MTLT335_Datasheet.pdf
+    [MTL MTL 5561] [7/7] MTL206P datasheet
+         https://www.mouser.com/datasheet/3/2640/3/ENG_CD_3-1437559-7_D5.pdf
+         Saved: 002_PROSOFT_MVI56E-MCM-CC__Technical_Note_MVI56_E_-MCM___MCMXT_Add-On_Instruc.pdf  (1097 KB)
+         Verified: MANUAL  [10p, signals={'manual': 4}, part-match=partial, desc-match=4 keyword(s)]
+    [PROSOFT MVI56E-MCM-CC] Kept: MANUAL  (1 download(s))
+    [Search] MTL MTL 5549/Y: checking manufacturer sources…
+[1/131]  PROSOFT MVI56E-MCM-CC  -> 1 file(s)
+
+    [MTL MTL 5541] Kept: UNKNOWN  (7 download(s))
+    [Search] MTL MTL 5516C: checking manufacturer sources…
+[2/131]  MTL MTL 5541  -> 1 file(s)
+
+    [MTL MTL 5544] [7/7] MTL206P datasheet
+         https://www.mouser.com/datasheet/3/2640/3/ENG_CD_3-1437559-7_D5.pdf
+    [DirectProbe] 1 hit(s) for MTL MTL 5549/Y
+    [MTL MTL 5561] Kept: UNKNOWN  (7 download(s))
+    [Search] HIMA F-BASE RACK 01: checking manufacturer sources…
+[3/131]  MTL MTL 5561  -> 1 file(s)
+
+    [DirectProbe] 1 hit(s) for MTL MTL 5516C
+    [MTL MTL 5544] Kept: UNKNOWN  (7 download(s))
+    [Search] HIMA F-CPU 01: checking manufacturer sources…
+[4/131]  MTL MTL 5544  -> 1 file(s)
+
+    [Search] HIMA F-BASE RACK 01: no official docs yet — querying search engines…
+    [Search] HIMA F-CPU 01: no official docs yet — querying search engines…
+    [MfrPortal] MTL MTL 5549/Y: 1 official doc(s) — skipping search engines
+    [MfrPortal] MTL MTL 5516C: 1 official doc(s) — skipping search engines
+    [SiteSearch:hima.com] 2 candidate(s)
+    [SiteSearch:hima.com] HIMA F-CPU 01: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 2 candidate(s) found after query: HIMatrix system manual pdf
+[Mouser-scrape] 0 hit(s) for HIMA F-CPU 01
+    [RS-scrape] HTTP 403 — disabling for this run
+    [Search] HIMA F-CPU 01: broad web search…
+    [HIMA F-CPU 01] [1/2] A New Dimension of Performance for Your Safety System
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIQuad+X/HIMA_
+    [MTL MTL 5549/Y] [1/7] MTL 5549/Y (MTL)
+         https://www.mtl-inst.com/images/uploads/datasheets/4500_5500/MTLx549-C-Y.pdf
+    [MTL MTL 5516C] [1/7] MTL 5516C (MTL)
+         https://www.mtl-inst.com/images/uploads/datasheets/4500_5500/MTLx516C.pdf
+         Saved: 006_MTL_MTL_5549_Y__MTL_5549_Y__MTL.pdf  (134 KB)
+         Verified: DATASHEET  [1p, signals={'manual': 1, 'datasheet': 3}, part-match=via source filename, desc-match=4 keyword(s)]
+    [MTL MTL 5549/Y] Kept: DATASHEET  (1 download(s))
+    [Search] HIMA F-PWR 01: checking manufacturer sources…
+[5/131]  MTL MTL 5549/Y  -> 1 file(s)
+
+         Saved: 007_MTL_MTL_5516C__MTL_5516C__MTL.pdf  (153 KB)
+         Verified: DATASHEET  [1p, signals={'manual': 1, 'datasheet': 3}, part-match=exact, desc-match=4 keyword(s)]
+    [MTL MTL 5516C] Kept: DATASHEET  (1 download(s))
+    [Search] HIMA F-PWR 02: checking manufacturer sources…
+[6/131]  MTL MTL 5516C  -> 1 file(s)
+
+    [Search] HIMA F-PWR 01: no official docs yet — querying search engines…
+    [Search] PROSOFT MVI56E-MNET-CC: time budget reached — ranking the 0 candidate(s) found so far
+    [PROSOFT MVI56E-MNET-CC] No URLs found
+    [Search] HIMA F-COM 01: checking manufacturer sources…
+[7/131]  PROSOFT MVI56E-MNET-CC  -> 0 files  (no URLs found)
+
+    [Search] HIMA F-PWR 02: no official docs yet — querying search engines…
+    [Search] HIMA F-COM 01: no official docs yet — querying search engines…
+    [HIMA F-CPU 01] [2/2] Eine neue Leistungsdimension für Ihr Sicherheitssystem
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIQuad+X/HIMA_
+    [SiteSearch:hima.com] 2 candidate(s)
+    [SiteSearch:hima.com] HIMA F-PWR 01: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 2 candidate(s) found after query: HIMatrix system manual pdf
+[Mouser-scrape] 0 hit(s) for HIMA F-PWR 01
+    [Search] HIMA F-PWR 01: broad web search…
+    [HIMA F-PWR 01] [1/2] A New Dimension of Performance for Your Safety System
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIQuad+X/HIMA_
+    [Search] HIMA F-CPU 01: checking manufacturer sources…
+    [Search] HIMA F-CPU 01: no official docs yet — querying search engines…
+    [HIMA F-PWR 01] [2/2] Eine neue Leistungsdimension für Ihr Sicherheitssystem
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIQuad+X/HIMA_
+    [SiteSearch:hima.com] 2 candidate(s)
+    [SiteSearch:hima.com] HIMA F-CPU 01: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 2 candidate(s) found after query: HIMatrix system manual pdf
+[Mouser-scrape] 0 hit(s) for HIMA F-CPU 01
+    [Search] HIMA F-CPU 01: broad web search…
+    [Search] HIMA F-PWR 01: checking manufacturer sources…
+    [HIMA F-CPU 01] No verified manual/datasheet — 2 URL(s) checked
+    [Search] HIMA 894000002: checking manufacturer sources…
+[8/131]  HIMA F-CPU 01  -> 0 saved  (2 URL(s) found, download failed)
+
+    [Search] HIMA F-PWR 01: no official docs yet — querying search engines…
+    [Search] HIMA 894000002: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 1 candidate(s)
+    [SiteSearch:hima.com] HIMA F-COM 01: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 1 candidate(s) found after query: HIMatrix system manual pdf
+    [Mouser-scrape] 0 hits in 4 consecutive searches (likely bot-challenge page) — disabling for this run
+[Mouser-scrape] 0 hit(s) for HIMA F-COM 01
+    [Search] HIMA F-COM 01: broad web search…
+    [HIMA F-COM 01] [1/1] A New Dimension of Performance for Your Safety System
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIQuad+X/HIMA_
+    [SiteSearch:hima.com] 2 candidate(s)
+    [SiteSearch:hima.com] HIMA F-PWR 01: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 2 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F-PWR 01: broad web search…
+    [Search] HIMA F-BASE RACK 01: time budget reached — ranking the 0 candidate(s) found so far
+    [HIMA F-BASE RACK 01] No URLs found
+    [Search] HIMA F-BLK 01: checking manufacturer sources…
+[9/131]  HIMA F-BASE RACK 01  -> 0 files  (no URLs found)
+
+    [Search] HIMA F-BLK 01: no official docs yet — querying search engines…
+    [HIMA F-PWR 01] No verified manual/datasheet — 2 URL(s) checked
+    [Search] HIMA F-BASE RACK 11: checking manufacturer sources…
+[10/131]  HIMA F-PWR 01  -> 0 saved  (2 URL(s) found, download failed)
+
+    [Search] HIMA F-PWR 02: time budget reached — ranking the 0 candidate(s) found so far
+    [HIMA F-PWR 02] No URLs found
+    [Search] HIMA F-IOP 01: checking manufacturer sources…
+[11/131]  HIMA F-PWR 02  -> 0 files  (no URLs found)
+
+    [Search] HIMA F-COM 01: checking manufacturer sources…
+    [Search] HIMA F-BASE RACK 11: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 2 candidate(s)
+    [SiteSearch:hima.com] HIMA 894000002: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 2 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA 894000002: broad web search…
+    [HIMA 894000002] [1/2] Ready-To-Use Combustion Safeguard - hima.com
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIMatrix/HIMA_
+    [Search] HIMA F-IOP 01: no official docs yet — querying search engines…
+    [Search] HIMA F-COM 01: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 1 candidate(s)
+    [SiteSearch:hima.com] HIMA F-COM 01: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 1 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F-COM 01: broad web search…
+    [HIMA 894000002] [2/2] Uniquely Fast, Uniquely Flexible
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIMatrix/HIMA_
+    [HIMA F-COM 01] No verified manual/datasheet — 1 URL(s) checked
+    [Search] HIMA F6217: checking manufacturer sources…
+[12/131]  HIMA F-COM 01  -> 0 saved  (1 URL(s) found, download failed)
+
+    [Search] HIMA F6217: no official docs yet — querying search engines…
+    [Search] HIMA 894000002: checking manufacturer sources…
+    [Search] HIMA 894000002: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 2 candidate(s)
+    [SiteSearch:hima.com] HIMA 894000002: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 2 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA 894000002: broad web search…
+    [HIMA 894000002] No verified manual/datasheet — 2 URL(s) checked
+    [Search] HIMA Z 7127/6217/C5/I/R: checking manufacturer sources…
+[13/131]  HIMA 894000002  -> 0 saved  (2 URL(s) found, download failed)
+
+    [Search] HIMA Z 7127/6217/C5/I/R: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 5 candidate(s)
+    [SiteSearch:hima.com] HIMA F-BLK 01: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 5 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F-BLK 01: broad web search…
+    [HIMA F-BLK 01] part time limit reached (150s) — stopping with what we have
+    [HIMA F-BLK 01] No verified manual/datasheet — 5 URL(s) checked
+    [Search] HIMA F3236: checking manufacturer sources…
+[14/131]  HIMA F-BLK 01  -> 0 saved  (5 URL(s) found, download failed)
+
+    [Search] HIMA F3236: no official docs yet — querying search engines…
+    [Search] HIMA F-BASE RACK 11: time budget reached — ranking the 0 candidate(s) found so far
+    [HIMA F-BASE RACK 11] No URLs found
+    [Search] HIMA Z 7116/3236/C5/R: checking manufacturer sources…
+[15/131]  HIMA F-BASE RACK 11  -> 0 files  (no URLs found)
+
+    [Search] HIMA Z 7116/3236/C5/R: no official docs yet — querying search engines…
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F-IOP 01: broad web search…
+    [HIMA F-IOP 01] part time limit reached (150s) — stopping with what we have
+    [HIMA F-IOP 01] No verified manual/datasheet — 1 URL(s) checked
+    [Search] HIMA F3330: checking manufacturer sources…
+[16/131]  HIMA F-IOP 01  -> 0 saved  (1 URL(s) found, download failed)
+
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F6217: broad web search…
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F3236: broad web search…
+    [HIMA F6217] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 017_HIMA_F6217__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=2 keyword(s)]
+    [HIMA F6217] Kept: MANUAL  (1 download(s))
+    [Search] HIMA Z 7138/3330/C5: checking manufacturer sources…
+[17/131]  HIMA F6217  -> 1 file(s)
+
+    [Search] HIMA F3330: no official docs yet — querying search engines…
+    [HIMA F3236] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 019_HIMA_F3236__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=2 keyword(s)]
+    [HIMA F3236] Kept: MANUAL  (1 download(s))
+    [Search] HIMA Z 7138/3330/C5: checking manufacturer sources…
+[18/131]  HIMA F3236  -> 1 file(s)
+
+    [Search] HIMA Z 7138/3330/C5: no official docs yet — querying search engines…
+    [Search] HIMA Z 7138/3330/C5: no official docs yet — querying search engines…
+    [DDG] search engine rate-limited -- pausing it for 90s (direct manufacturer sources still active)
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA Z 7116/3236/C5/R: broad web search…
+    [HIMA Z 7116/3236/C5/R] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 020_HIMA_Z_7116_3236_C5_R__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=3 keyword(s)]
+    [HIMA Z 7116/3236/C5/R] Kept: MANUAL  (1 download(s))
+    [Search] HIMA F3331: checking manufacturer sources…
+[19/131]  HIMA Z 7116/3236/C5/R  -> 1 file(s)
+
+    [Search] HIMA F3331: no official docs yet — querying search engines…
+    [Search] HIMA Z 7127/6217/C5/I/R: time budget reached — ranking the 0 candidate(s) found so far
+    [HIMA Z 7127/6217/C5/I/R] No URLs found
+    [Search] HIMA Z 7138/3331/C5: checking manufacturer sources…
+[20/131]  HIMA Z 7127/6217/C5/I/R  -> 0 files  (no URLs found)
+
+    [SiteSearch:hima.com] 1 candidate(s)
+    [SiteSearch:hima.com] HIMA F3330: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 4 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F3330: broad web search…
+    [HIMA F3330] [1/2] A New Dimension of Performance for Your Safety System
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIQuad+X/HIMA_
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F3331: broad web search…
+    [Mouser API] HTTPSConnectionPool(host='api.mouser.com', port=443): Read timed out. (read time
+    [Search] HIMA Z 7138/3331/C5: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 3 candidate(s)
+    [SiteSearch:hima.com] HIMA Z 7138/3330/C5: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 6 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA Z 7138/3330/C5: broad web search…
+    [HIMA Z 7138/3330/C5] [1/4] HIQuad Lifecycle & Modernization
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIQuad/HIMA_Te
+    [HIMA F3331] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 024_HIMA_F3331__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=3 keyword(s)]
+    [HIMA F3331] Kept: MANUAL  (1 download(s))
+    [Search] HIMA F3334: checking manufacturer sources…
+[21/131]  HIMA F3331  -> 1 file(s)
+
+    [Search] HIMA F3334: no official docs yet — querying search engines…
+    [HIMA F3330] [2/2] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 021_HIMA_F3330__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=3 keyword(s)]
+    [HIMA F3330] Kept: MANUAL  (2 download(s))
+    [Search] HIMA Z 7134/3334/C5: checking manufacturer sources…
+[22/131]  HIMA F3330  -> 1 file(s)
+
+    [Search] HIMA Z 7134/3334/C5: no official docs yet — querying search engines…
+    [HIMA Z 7138/3330/C5] [2/4] Uniquely Fast, Uniquely Flexible
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIMatrix/HIMA_
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA Z 7138/3330/C5: broad web search…
+    [HIMA Z 7138/3330/C5] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 023_HIMA_Z_7138_3330_C5__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=3 keyword(s)]
+    [HIMA Z 7138/3330/C5] Kept: MANUAL  (1 download(s))
+    [Search] HIMA F7133: checking manufacturer sources…
+[23/131]  HIMA Z 7138/3330/C5  -> 1 file(s)
+
+    [Search] HIMA F7133: no official docs yet — querying search engines…
+    [HIMA Z 7138/3330/C5] part time limit reached (150s) — stopping with what we have
+    [HIMA Z 7138/3330/C5] No verified manual/datasheet — 4 URL(s) checked
+    [Search] HIMA K 9203A: checking manufacturer sources…
+[24/131]  HIMA Z 7138/3330/C5  -> 0 saved  (4 URL(s) found, download failed)
+
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F3334: broad web search…
+    [HIMA F3334] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 026_HIMA_F3334__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+    [Search] HIMA K 9203A: no official docs yet — querying search engines…
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=3 keyword(s)]
+    [HIMA F3334] Kept: MANUAL  (1 download(s))
+    [Search] HIMA 892131120: checking manufacturer sources…
+[25/131]  HIMA F3334  -> 1 file(s)
+
+    [SiteSearch:hima.com] 3 candidate(s)
+    [SiteSearch:hima.com] HIMA Z 7138/3331/C5: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA Z 7138/3331/C5: time budget reached — ranking the 3 candidate(s) found so far
+    [HIMA Z 7138/3331/C5] [1/3] Flexible SIL 4 Controllers - hima.com
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIMatrix/HIMA_
+    [Search] HIMA 892131120: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 1 candidate(s)
+    [SiteSearch:hima.com] HIMA F7133: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 4 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA F7133: broad web search…
+    [HIMA F7133] [1/2] Uniquely Fast, Uniquely Flexible
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIMatrix/HIMA_
+    [HIMA Z 7138/3331/C5] part time limit reached (150s) — stopping with what we have
+    [HIMA Z 7138/3331/C5] No verified manual/datasheet — 3 URL(s) checked
+    [Search] HIMA 892131130: checking manufacturer sources…
+[26/131]  HIMA Z 7138/3331/C5  -> 0 saved  (3 URL(s) found, download failed)
+
+    [Search] HIMA 892131130: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 2 candidate(s)
+    [SiteSearch:hima.com] HIMA 892131120: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 5 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA 892131120: broad web search…
+    [HIMA F7133] [2/2] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 028_HIMA_F7133__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial]
+    [HIMA F7133] Kept: MANUAL  (2 download(s))
+    [Search] HIMA H7034: checking manufacturer sources…
+    [HIMA 892131120] [1/3] Ready-To-Use Combustion Safeguard - hima.com
+[27/131]  HIMA F7133  -> 1 file(s)
+
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIMatrix/HIMA_
+    [Search] HIMA H7034: no official docs yet — querying search engines…
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA Z 7134/3334/C5: broad web search…
+    [HIMA Z 7134/3334/C5] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 027_HIMA_Z_7134_3334_C5__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=3 keyword(s)]
+    [HIMA Z 7134/3334/C5] Kept: MANUAL  (1 download(s))
+    [Search] CISCO IE-3300-8T2S-E: checking manufacturer sources…
+[28/131]  HIMA Z 7134/3334/C5  -> 1 file(s)
+
+    [Search] CISCO IE-3300-8T2S-E: no official docs yet — querying search engines…
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA 892131130: broad web search…
+    [HIMA 892131130] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 031_HIMA_892131130__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Rejected: different part — part number absent from document  [30p — only a fragment of the part number found; this looks like a different variant]
+    [Search] HIMA 892131130: checking manufacturer sources…
+    [HIMA 892131120] [2/3] Uniquely Fast, Uniquely Flexible
+         https://www.hima.com/sharepoint-sync/PDFs/Product+&+Services+PDFs/HIMatrix/HIMA_
+    [Search] HIMA 892131130: no official docs yet — querying search engines…
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA 892131130: broad web search…
+    [HIMA 892131130] No verified manual/datasheet — 1 URL(s) checked
+    [Search] CISCO GLC-FE-100LX-RGD: checking manufacturer sources…
+[29/131]  HIMA 892131130  -> 0 saved  (1 URL(s) found, download failed)
+
+    [Search] CISCO GLC-FE-100LX-RGD: no official docs yet — querying search engines…
+    [HIMA 892131120] [3/3] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 030_HIMA_892131120__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Rejected: different part — part number absent from document  [30p — only a fragment of the part number found; this looks like a different variant]
+    [Search] HIMA 892131120: checking manufacturer sources…
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA K 9203A: broad web search…
+    [HIMA K 9203A] part time limit reached (150s) — stopping with what we have
+    [HIMA K 9203A] No verified manual/datasheet — 1 URL(s) checked
+    [Search] MOXA EDS-316-SS-SC-T: checking manufacturer sources…
+[30/131]  HIMA K 9203A  -> 0 saved  (1 URL(s) found, download failed)
+
+    [HIMA-search] 3 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA H7034: broad web search…
+    [HIMA H7034] [1/1] HIMatrix PS 01 Manual - meloautotech.com
+         https://www.meloautotech.com/wp-content/uploads/2025/12/HIMATRIX-F60PS01-F60-PS-
+         Saved: 032_HIMA_H7034__HIMatrix_PS_01_Manual_-_meloautotech.com.pdf  (638 KB, cached)
+         Verified: MANUAL  [30p, signals={'manual': 18, 'datasheet': 7}, part-match=partial, desc-match=2 keyword(s)]
+    [HIMA H7034] Kept: MANUAL  (1 download(s))
+    [Search] MOXA MB3270I-T: checking manufacturer sources…
+[31/131]  HIMA H7034  -> 1 file(s)
+
+    [Search] HIMA 892131120: no official docs yet — querying search engines…
+    [SiteSearch:hima.com] 2 candidate(s)
+    [SiteSearch:hima.com] HIMA 892131120: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [HIMA-search] 5 candidate(s) found after query: HIMatrix system manual pdf
+    [Search] HIMA 892131120: broad web search…
+    [Search] MOXA EDS-316-SS-SC-T: no official docs yet — querying search engines…
+    [HIMA 892131120] No verified manual/datasheet — 3 URL(s) checked
+    [Search] HONEYWELL FC-PDB-0824P: checking manufacturer sources…
+[32/131]  HIMA 892131120  -> 0 saved  (3 URL(s) found, download failed)
+
+    [Search] MOXA MB3270I-T: no official docs yet — querying search engines…
+    [Search] HONEYWELL FC-PDB-0824P: no official docs yet — querying search engines…
+    [SiteSearch:cisco.com] 1 candidate(s)
+    [SiteSearch:cisco.com] CISCO IE-3300-8T2S-E: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [Search] CISCO IE-3300-8T2S-E: broad web search…
+    [CISCO IE-3300-8T2S-E] [1/1] IP Routing: OSPF Configuration Guide for Cisco Catalyst IE3x
+         https://www.cisco.com/c/dam/en/us/td/docs/switches/lan/cisco_ie3X00/software/16_
+         Saved: 033_CISCO_IE-3300-8T2S-E__IP_Routing__OSPF_Configuration_Guide_for_Cisco_Cat.pdf  (3915 KB)
+         Rejected: different part — part number absent from document  [234p — part number not found anywhere in document]
+    [Search] CISCO IE-3300-8T2S-E: checking manufacturer sources…
+    [Search] CISCO GLC-FE-100LX-RGD: broad web search…
+    [Search] CISCO IE-3300-8T2S-E: no official docs yet — querying search engines…
+    [SiteSearch:cisco.com] 1 candidate(s)
+    [SiteSearch:cisco.com] CISCO IE-3300-8T2S-E: only non-specific brochure(s) on the maker's site — continuing to mirror/broad search
+    [Search] CISCO IE-3300-8T2S-E: broad web search…
+    [CISCO IE-3300-8T2S-E] No verified manual/datasheet — 1 URL(s) checked
+    [Search] TRACO POWER TEP 200-2415WIRCMF: checking manufacturer sources…
+[33/131]  CISCO IE-3300-8T2S-E  -> 0 saved  (1 URL(s) found, download failed)
+
+    [Search] TRACO POWER TEP 200-2415WIRCMF: no official docs yet — querying search engines…
+    [SiteSearch:tracopower.com] 1 candidate(s)
+    [Search] TRACO POWER TEP 200-2415WIRCMF: broad web search…
+    [TRACO POWER TEP 200-2415WIRCMF] [1/1] TEP 200-2415WIRCMF datasheet
+         https://www.mouser.com/datasheet/3/1230/1/tep200wircmf_datasheet.pdf
+    [Search] TRACO POWER TEP 200-2415WIRCMF: checking manufacturer sources…
+    [Search] TRACO POWER TEP 200-2415WIRCMF: no official docs yet — querying search engines…
+    [SiteSearch:tracopower.com] 1 candidate(s)
+    [Search] TRACO POWER TEP 200-2415WIRCMF: broad web search…
+    [TRACO POWER TEP 200-2415WIRCMF] No verified manual/datasheet — 1 URL(s) checked
+    [Search] GMI D5096S: checking manufacturer sources…
+[34/131]  TRACO POWER TEP 200-2415WIRCMF  -> 0 saved  (1 URL(s) found, download failed)
+
+    [Search] GMI D5096S: no official docs yet — querying search engines…
+    [Search] GMI D5096S: broad web search…
+    [SiteSearch:moxa.com] 9 candidate(s)
+    [SiteSearch] MOXA EDS-316-SS-SC-T: 4 official doc(s) found — skipping further search
+    [MOXA EDS-316-SS-SC-T] part time limit reached (150s) — stopping with what we have
+    [MOXA EDS-316-SS-SC-T] No verified manual/datasheet — 5 URL(s) checked
+    [Search] WEIDMULLER 1631930000: checking manufacturer sources…
+[35/131]  MOXA EDS-316-SS-SC-T  -> 0 saved  (5 URL(s) found, download failed)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1631930000
+    [DirectProbe] WEIDMULLER 1631930000: 1 verified mirror doc(s) — skipping search engines
+    [WEIDMULLER 1631930000] [1/1] 1631930000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1631930000.pdf
+         Saved: 040_WEIDMULLER_1631930000__1631930000_datasheet__WEIDMULLER_via_DigiKey.pdf  (67 KB)
+         Verified: DATASHEET  [2p, signals={'datasheet': 10}, part-match=exact, desc-match=5 keyword(s)]
+    [WEIDMULLER 1631930000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 1050000000: checking manufacturer sources…
+[36/131]  WEIDMULLER 1631930000  -> 1 file(s)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1050000000
+    [DirectProbe] WEIDMULLER 1050000000: 1 verified mirror doc(s) — skipping search engines
+    [WEIDMULLER 1050000000] [1/1] 1050000000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1050000000.pdf
+         Saved: 041_WEIDMULLER_1050000000__1050000000_datasheet__WEIDMULLER_via_DigiKey.pdf  (44 KB)
+         Verified: DATASHEET  [2p, signals={'manual': 1, 'datasheet': 14}, part-match=exact, desc-match=3 keyword(s)]
+    [WEIDMULLER 1050000000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 1061200000: checking manufacturer sources…
+[37/131]  WEIDMULLER 1050000000  -> 1 file(s)
+
+    [Search] HONEYWELL FC-PDB-0824P: broad web search…
+    [Search] MOXA MB3270I-T: time budget reached — ranking the 0 candidate(s) found so far
+    [MOXA MB3270I-T] No URLs found
+    [Search] WEIDMULLER 1011300000: checking manufacturer sources…
+[38/131]  MOXA MB3270I-T  -> 0 files  (no URLs found)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1061200000
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1011300000
+    [DirectProbe] WEIDMULLER 1061200000: 1 verified mirror doc(s) — skipping search engines
+    [CISCO GLC-FE-100LX-RGD] part time limit reached (150s) — stopping with what we have
+    [CISCO GLC-FE-100LX-RGD] No verified manual/datasheet — 3 URL(s) checked
+    [Search] WEIDMULLER 1020300000: checking manufacturer sources…
+[39/131]  CISCO GLC-FE-100LX-RGD  -> 0 saved  (3 URL(s) found, download failed)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1020300000
+    [DirectProbe] WEIDMULLER 1011300000: 1 verified mirror doc(s) — skipping search engines
+    [DirectProbe] WEIDMULLER 1020300000: 1 verified mirror doc(s) — skipping search engines
+    [WEIDMULLER 1061200000] [1/1] 1061200000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1061200000.pdf
+         Saved: 042_WEIDMULLER_1061200000__1061200000_datasheet__WEIDMULLER_via_DigiKey.pdf  (45 KB)
+         Verified: DATASHEET  [2p, signals={'datasheet': 11}, part-match=exact, desc-match=3 keyword(s)]
+    [WEIDMULLER 1061200000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 1010300000: checking manufacturer sources…
+[40/131]  WEIDMULLER 1061200000  -> 1 file(s)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1010300000
+    [WEIDMULLER 1011300000] [1/2] 1011300000 datasheet
+         https://www.mouser.com/datasheet/3/864/1/1011300000_WSI_6_LD_10-36V_DC_AC_en.pdf
+    [WEIDMULLER 1011300000] [2/2] 1011300000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1011300000.pdf
+         Saved: 043_WEIDMULLER_1011300000__1011300000_datasheet__WEIDMULLER_via_DigiKey.pdf  (89 KB)
+    [DirectProbe] WEIDMULLER 1010300000: 1 verified mirror doc(s) — skipping search engines
+         Verified: DATASHEET  [4p, signals={'manual': 1, 'datasheet': 14}, part-match=exact, desc-match=5 keyword(s)]
+    [WEIDMULLER 1011300000] Kept: DATASHEET  (2 download(s))
+    [Search] WEIDMULLER 1020500000: checking manufacturer sources…
+[41/131]  WEIDMULLER 1011300000  -> 1 file(s)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1020500000
+    [WEIDMULLER 1020300000] [1/1] 1020300000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1020300000.pdf
+         Saved: 044_WEIDMULLER_1020300000__1020300000_datasheet__WEIDMULLER_via_DigiKey.pdf  (87 KB)
+         Verified: DATASHEET  [4p, signals={'manual': 1, 'datasheet': 14, 'certificate': 3}, part-match=exact, desc-match=4 keyword(s)]
+    [WEIDMULLER 1020300000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 1010500000: checking manufacturer sources…
+[42/131]  WEIDMULLER 1020300000  -> 1 file(s)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1010500000
+    [DirectProbe] WEIDMULLER 1020500000: 1 verified mirror doc(s) — skipping search engines
+    [DirectProbe] WEIDMULLER 1010500000: 1 verified mirror doc(s) — skipping search engines
+    [WEIDMULLER 1010300000] [1/1] 1010300000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1010300000.pdf
+         Saved: 045_WEIDMULLER_1010300000__1010300000_datasheet__WEIDMULLER_via_DigiKey.pdf  (95 KB)
+         Verified: DATASHEET  [4p, signals={'manual': 1, 'datasheet': 14, 'certificate': 3}, part-match=exact, desc-match=5 keyword(s)]
+    [WEIDMULLER 1010300000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 1010500000: checking manufacturer sources…
+[43/131]  WEIDMULLER 1010300000  -> 1 file(s)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1010500000
+    [DirectProbe] WEIDMULLER 1010500000: 1 verified mirror doc(s) — skipping search engines
+    [WEIDMULLER 1020500000] [1/1] 1020500000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1020500000.pdf
+         Saved: 046_WEIDMULLER_1020500000__1020500000_datasheet__WEIDMULLER_via_DigiKey.pdf  (381 KB)
+         Verified: DATASHEET  [5p, signals={'manual': 2, 'datasheet': 21, 'certificate': 4, 'brochure': 3}, part-match=exact, desc-match=4 keyword(s)]
+    [WEIDMULLER 1020500000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 1052460000: checking manufacturer sources…
+[44/131]  WEIDMULLER 1020500000  -> 1 file(s)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1052460000
+    [DirectProbe] WEIDMULLER 1052460000: 1 verified mirror doc(s) — skipping search engines
+    [WEIDMULLER 1010500000] [1/1] 1010500000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1010500000.pdf
+         Saved: 048_WEIDMULLER_1010500000__1010500000_datasheet__WEIDMULLER_via_DigiKey.pdf  (376 KB)
+         Verified: DATASHEET  [5p, signals={'manual': 2, 'datasheet': 21, 'certificate': 4, 'brochure': 3}, part-match=exact, desc-match=4 keyword(s)]
+    [WEIDMULLER 1010500000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 545300000: checking manufacturer sources…
+[45/131]  WEIDMULLER 1010500000  -> 1 file(s)
+
+    [Mouser API] HTTPSConnectionPool(host='api.mouser.com', port=443): Read timed out. (read time
+    [WEIDMULLER 1052460000] [1/1] 1052460000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1052460000.pdf
+         Saved: 049_WEIDMULLER_1052460000__1052460000_datasheet__WEIDMULLER_via_DigiKey.pdf  (45 KB)
+         Verified: DATASHEET  [1p, signals={'datasheet': 11}, part-match=exact, desc-match=4 keyword(s)]
+    [WEIDMULLER 1052460000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 546040000: checking manufacturer sources…
+[46/131]  WEIDMULLER 1052460000  -> 1 file(s)
+
+    [Search] WEIDMULLER 545300000: no official docs yet — querying search engines…
+    [Search] WEIDMULLER 546040000: no official docs yet — querying search engines…
+    [WEIDMULLER 1010500000] [1/1] 1010500000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1010500000.pdf
+         Saved: 047_WEIDMULLER_1010500000__1010500000_datasheet__WEIDMULLER_via_DigiKey.pdf  (376 KB, cached)
+         Verified: DATASHEET  [5p, signals={'manual': 2, 'datasheet': 21, 'certificate': 4, 'brochure': 3}, part-match=exact, desc-match=4 keyword(s)]
+    [WEIDMULLER 1010500000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 7910180000: checking manufacturer sources…
+[47/131]  WEIDMULLER 1010500000  -> 1 file(s)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 7910180000
+    [DirectProbe] WEIDMULLER 7910180000: 1 verified mirror doc(s) — skipping search engines
+    [GMI D5096S] [1/2] ISM0301_R05 - Tormatic
+         https://www.tormatic.no/media/multicase/documents/datablader/gmi/instruksjonsman
+    [GMI D5096S] [2/2] D5096-100_ISM0439_r2.pub - Tormatic
+         https://www.tormatic.no/media/multicase/documents/datablader/gmi/instruksjonsman
+    [Search] GMI D5096S: checking manufacturer sources…
+    [WEIDMULLER 7910180000] [1/1] 7910180000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/7910180000.pdf
+         Saved: 052_WEIDMULLER_7910180000__7910180000_datasheet__WEIDMULLER_via_DigiKey.pdf  (370 KB)
+         Verified: DATASHEET  [5p, signals={'manual': 2, 'datasheet': 21, 'certificate': 1, 'brochure': 3}, part-match=exact, desc-match=5 keyword(s)]
+    [WEIDMULLER 7910180000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 1758260000: checking manufacturer sources…
+[48/131]  WEIDMULLER 7910180000  -> 1 file(s)
+
+    [Search] GMI D5096S: no official docs yet — querying search engines…
+    [Search] GMI D5096S: broad web search…
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1758260000
+    [DirectProbe] WEIDMULLER 1758260000: 1 verified mirror doc(s) — skipping search engines
+    [WEIDMULLER 1758260000] [1/1] 1758260000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1758260000.pdf
+         Saved: 053_WEIDMULLER_1758260000__1758260000_datasheet__WEIDMULLER_via_DigiKey.pdf  (68 KB)
+         Verified: DATASHEET  [2p, signals={'manual': 1, 'datasheet': 15}, part-match=exact, desc-match=5 keyword(s)]
+    [WEIDMULLER 1758260000] Kept: DATASHEET  (1 download(s))
+    [Search] WEIDMULLER 1855610000: checking manufacturer sources…
+[49/131]  WEIDMULLER 1758260000  -> 1 file(s)
+
+    [GMI D5096S] No verified manual/datasheet — 2 URL(s) checked
+    [Search] WEIDMULLER 1010000000: checking manufacturer sources…
+[50/131]  GMI D5096S  -> 0 saved  (2 URL(s) found, download failed)
+
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1855610000
+    [DirectProbe] 1 hit(s) for WEIDMULLER 1010000000
+    [DirectProbe] WEIDMULLER 1855610000: 1 verified mirror doc(s) — skipping search engines
+    [DirectProbe] WEIDMULLER 1010000000: 1 verified mirror doc(s) — skipping search engines
+    [WEIDMULLER 1855610000] [1/2] 1855610000 datasheet
+         https://www.mouser.com/datasheet/3/864/1/1855610000_WTR_2.5_en.pdf
+    [WEIDMULLER 1855610000] [2/2] 1855610000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1855610000.pdf
+         Saved: 054_WEIDMULLER_1855610000__1855610000_datasheet__WEIDMULLER_via_DigiKey.pdf  (83 KB)
+    [Search] WEIDMULLER 546040000: broad web search…
+         Verified: DATASHEET  [4p, signals={'manual': 2, 'datasheet': 19, 'certificate': 1}, part-match=exact, desc-match=4 keyword(s)]
+    [WEIDMULLER 1855610000] Kept: DATASHEET  (2 download(s))
+    [Search] WEIDMULLER 8731640000: checking manufacturer sources…
+[51/131]  WEIDMULLER 1855610000  -> 1 file(s)
+
+    [WEIDMULLER 1010000000] [1/1] 1010000000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/1010000000.pdf
+         Saved: 055_WEIDMULLER_1010000000__1010000000_datasheet__WEIDMULLER_via_DigiKey.pdf  (94 KB)
+    [DirectProbe] 1 hit(s) for WEIDMULLER 8731640000
+         Verified: DATASHEET  [4p, signals={'manual': 1, 'datasheet': 14, 'certificate': 3}, part-match=exact, desc-match=4 keyword(s)]
+    [WEIDMULLER 1010000000] Kept: DATASHEET  (1 download(s))
+    [Search] SCHNEIDER A9XAH257: checking manufacturer sources…
+[52/131]  WEIDMULLER 1010000000  -> 1 file(s)
+
+    [DirectProbe] WEIDMULLER 8731640000: 1 verified mirror doc(s) — skipping search engines
+    [Search] HONEYWELL FC-PDB-0824P: time budget reached — ranking the 0 candidate(s) found so far
+    [HONEYWELL FC-PDB-0824P] No URLs found
+    [Search] SCHNEIDER A9A26924: checking manufacturer sources…
+[53/131]  HONEYWELL FC-PDB-0824P  -> 0 files  (no URLs found)
+
+    [Search] SCHNEIDER A9XAH257: no official docs yet — querying search engines…
+    [Search] SCHNEIDER A9A26924: no official docs yet — querying search engines…
+    [WEIDMULLER 8731640000] [1/2] 8731640000 datasheet
+         https://www.mouser.com/datasheet/3/864/1/8731640000_WTR_2.5_BL_en.pdf
+    [WEIDMULLER 8731640000] [2/2] 8731640000 datasheet (WEIDMULLER via DigiKey)
+         https://media.digikey.com/pdf/Data%20Sheets/Weidmuller%20PDFs/8731640000.pdf
+         Saved: 056_WEIDMULLER_8731640000__8731640000_datasheet__WEIDMULLER_via_DigiKey.pdf  (377 KB)
+         Verified: DATASHEET  [5p, signals={'manual': 2, 'datasheet': 21, 'certificate': 3, 'brochure': 3}, part-match=exact, desc-match=4 keyword(s)]
+    [WEIDMULLER 8731640000] Kept: DATASHEET  (2 download(s))
+    [Search] SCHNEIDER A9F44201: checking manufacturer sources…
+[54/131]  WEIDMULLER 8731640000  -> 1 file(s)
+
+    [Search] SCHNEIDER A9F44201: no official docs yet — querying search engines…
+    [Search] WEIDMULLER 545300000: broad web search…
+    [Search] SCHNEIDER A9A26924: broad web search…
+    [Search] SCHNEIDER A9F44201: broad web search…
+    [Search] WEIDMULLER 545300000: time budget reached — ranking the 0 candidate(s) found so far
+    [WEIDMULLER 545300000] No URLs found
+    [Search] SCHNEIDER A9F44202: checking manufacturer sources…
+[55/131]  WEIDMULLER 545300000  -> 0 files  (no URLs found)
+
+    [Search] SCHNEIDER A9F44202: no official docs yet — querying search engines…
+    [WEIDMULLER 546040000] [1/3] www.weidmueller.com Data sheet
+         https://www.onlinecomponents.com/productfiles/mf-WE/WE-546040000.pdf
+    [Search] SCHNEIDER A9XAH257: broad web search…
+    [SCHNEIDER A9F44201] [1/1] A9F44201.pdf - Hastings Electrical
+         https://hastingselectrical.com.au/wp-content/uploads/SCHA9F44201_DATASHEET.pdf
+         Saved: 059_SCHNEIDER_A9F44201__A9F44201.pdf_-_Hastings_Electrical.pdf  (95 KB)
+         Verified: DATASHEET  [2p, signals={'manual': 1, 'datasheet': 10, 'certificate': 2}, part-match=exact, desc-match=5 keyword(s)]
+    [SCHNEIDER A9F44201] Kept: DATASHEET  (1 download(s))
+    [Search] SCHNEIDER A9F44204: checking manufacturer sources…
+[56/131]  SCHNEIDER A9F44201  -> 1 file(s)
+
+    [Search] SCHNEIDER A9F44204: no official docs yet — querying search engines…
+    [Search] SCHNEIDER A9F44202: broad web search…
+    [SCHNEIDER A9XAH257] [1/2] A9XAH257
+         https://data.spangler-automation.org/ENGLISH/DATA-SHEETS/Schneider-Electric/SE.O
+         Saved: 057_SCHNEIDER_A9XAH257__A9XAH257.pdf  (57 KB)
+         Verified: DATASHEET  [2p, signals={'manual': 1, 'datasheet': 8, 'certificate': 2}, part-match=exact, desc-match=3 keyword(s)]
+    [SCHNEIDER A9XAH257] part time limit reached (150s) — stopping with what we have
+    [SCHNEIDER A9XAH257] Kept: DATASHEET  (1 download(s))
+    [Search] SCHNEIDER A9F44210: checking manufacturer sources…
+[57/131]  SCHNEIDER A9XAH257  -> 1 file(s)
+
+    [Search] SCHNEIDER A9F44210: no official docs yet — querying search engines…
+    [SCHNEIDER A9A26924] part time limit reached (150s) — stopping with what we have
+    [SCHNEIDER A9A26924] No verified manual/datasheet — 4 URL(s) checked
+    [Search] SCHNEIDER A9F44216: checking manufacturer sources…
+[58/131]  SCHNEIDER A9A26924  -> 0 saved  (4 URL(s) found, download failed)
+
+    [Search] SCHNEIDER A9F44216: no official docs yet — querying search engines…
+    [SCHNEIDER A9F44202] [1/2] A9F44202 - DIN rail type MCBs (Schneider Electric) - Remtron
+         https://shop.remtron.com.au/products/A9F44202.pdf
+    [WEIDMULLER 546040000] part time limit reached (150s) — stopping with what we have
+    [WEIDMULLER 546040000] No verified manual/datasheet — 3 URL(s) checked
+    [Search] SCHNEIDER A9F44263: checking manufacturer sources…
+[59/131]  WEIDMULLER 546040000  -> 0 saved  (3 URL(s) found, download failed)
+
+    [SCHNEIDER A9F44202] [2/2] Acti_9_A9F44202.pdf - RS Components
+         https://docs.rs-online.com/66f5/A700000008248679.pdf
+    [Search] SCHNEIDER A9F44263: no official docs yet — querying search engines…
+         Saved: 060_SCHNEIDER_A9F44202__Acti_9_A9F44202.pdf_-_RS_Components.pdf  (92 KB)
+         Verified: DATASHEET  [2p, signals={'manual': 1, 'datasheet': 8, 'certificate': 2}, part-match=exact, desc-match=5 keyword(s)]
+    [SCHNEIDER A9F44202] Kept: DATASHEET  (2 download(s))
+    [Search] SCHNEIDER A9D31606: checking manufacturer sources…
+[60/131]  SCHNEIDER A9F44202  -> 1 file(s)
+
+    [Search] SCHNEIDER A9D31606: no official docs yet — querying search engines…
+    [Search] SCHNEIDER A9F44204: broad web search…
+    [Search] SCHNEIDER A9F44216: broad web search…
+    [Search] SCHNEIDER A9F44263: broad web search…
+    [Search] SCHNEIDER A9D31606: broad web search…
+    [Search] SCHNEIDER A9F44210: broad web search…
+    [SCHNEIDER A9F44204] part time limit reached (150s) — stopping with what we have
+    [SCHNEIDER A9F44204] No verified manual/datasheet — 4 URL(s) checked
+    [Search] SCHNEIDER A9F44206: checking manufacturer sources…
+[61/131]  SCHNEIDER A9F44204  -> 0 saved  (4 URL(s) found, download failed)
+
+    [Search] SCHNEIDER A9F44206: no official docs yet — querying search engines…
+    [Search] SCHNEIDER A9F44210: time budget reached — ranking the 0 candidate(s) found so far
+    [SCHNEIDER A9F44210] No URLs found
+    [Search] APOLLO (ALJAC) 76-601-01A: checking manufacturer sources…
+[62/131]  SCHNEIDER A9F44210  -> 0 files  (no URLs found)
+
+    [Search] APOLLO (ALJAC) 76-601-01A: no official docs yet — querying search engines…
+    [Search] APOLLO (ALJAC) 76-601-01A: broad web search…
+    [SCHNEIDER A9F44263] No URLs found
+    [Search] AUTOCLAVE CB4401-SOG: checking manufacturer sources…
+[63/131]  SCHNEIDER A9F44263  -> 0 files  (no URLs found)
+
+    [Search] AUTOCLAVE CB4401-SOG: no official docs yet — querying search engines…
+    [Search] AUTOCLAVE CB4401-SOG: broad web search…
+    [SCHNEIDER A9F44216] part time limit reached (150s) — stopping with what we have
+    [SCHNEIDER A9F44216] No verified manual/datasheet — 3 URL(s) checked
+    [Search] BUTECH KW204-23-23-SOG: checking manufacturer sources…
+[64/131]  SCHNEIDER A9F44216  -> 0 saved  (3 URL(s) found, download failed)
+
+    [Search] BUTECH KW204-23-23-SOG: no official docs yet — querying search engines…
+    [Search] BUTECH KW204-23-23-SOG: broad web search…
+    [Search] SCHNEIDER A9D31606: time budget reached — ranking the 4 candidate(s) found so far
+    [SCHNEIDER A9D31606] part time limit reached (150s) — stopping with what we have
+    [SCHNEIDER A9D31606] No verified manual/datasheet — 4 URL(s) checked
+    [Search] AUTOCLAVE 30VM4001-SOG: checking manufacturer sources…
+[65/131]  SCHNEIDER A9D31606  -> 0 saved  (4 URL(s) found, download failed)
+
+    [Search] AUTOCLAVE 30VM4001-SOG: no official docs yet — querying search engines…
+    [Search] AUTOCLAVE 30VM4001-SOG: broad web search…
+    [Search] SCHNEIDER A9F44206: broad web search…
+    [Search] SCHNEIDER A9F44206: time budget reached — ranking the 5 candidate(s) found so far
+    [SCHNEIDER A9F44206] part time limit reached (150s) — stopping with what we have
+    [SCHNEIDER A9F44206] No verified manual/datasheet — 2 URL(s) checked
+    [Search] AUTOCLAVE 30VM4005-SOG: checking manufacturer sources…
+[66/131]  SCHNEIDER A9F44206  -> 0 saved  (2 URL(s) found, download failed)
+
+    [Search] AUTOCLAVE 30VM4005-SOG: no official docs yet — querying search engines…
+    [Search] AUTOCLAVE 30VM4005-SOG: broad web search…
+    [AUTOCLAVE 30VM4001-SOG] No URLs found
+    [Search] AUTOCLAVE 3B3S09H4-SOG: checking manufacturer sources…
+[67/131]  AUTOCLAVE 30VM4001-SOG  -> 0 files  (no URLs found)
+
+    [Search] AUTOCLAVE 3B3S09H4-SOG: no official docs yet — querying search engines…
+    [Search] AUTOCLAVE 3B3S09H4-SOG: broad web search…
+    [AUTOCLAVE CB4401-SOG] No URLs found
+    [Search] BARTON FIRTOP YSF/BFI/015/NPT/351: checking manufacturer sources…
+[68/131]  AUTOCLAVE CB4401-SOG  -> 0 files  (no URLs found)
+
+    [Search] BARTON FIRTOP YSF/BFI/015/NPT/351: no official docs yet — querying search engines…
+    [Search] BARTON FIRTOP YSF/BFI/015/NPT/351: broad web search…
+    [Search] APOLLO (ALJAC) 76-601-01A: time budget reached — ranking the 0 candidate(s) found so far
+    [APOLLO (ALJAC) 76-601-01A] No URLs found
+    [Search] BIFOLD FP01/S3/M/32/NC/SA/77A-24D/30- H2S(M1046): checking manufacturer sources…
+[69/131]  APOLLO (ALJAC) 76-601-01A  -> 0 files  (no URLs found)
+
+    [DDG] search engine rate-limited -- pausing it for 90s (direct manufacturer sources still active)
+    [BUTECH KW204-23-23-SOG] No URLs found
+    [Search] BIFOLD FP10P-S3-04-32-NU-V-77A9-24D-57- 03: checking manufacturer sources…
+[70/131]  BUTECH KW204-23-23-SOG  -> 0 files  (no URLs found)
+
+    [Search] BIFOLD FP01/S3/M/32/NC/SA/77A-24D/30- H2S(M1046): no official docs yet — querying search engines…
+    [Search] BIFOLD FP10P-S3-04-32-NU-V-77A9-24D-57- 03: no official docs yet — querying search engines…
+    [BARTON FIRTOP YSF/BFI/015/NPT/351] [1/1] Barton Firtop Stock List - Adams LLC
+         https://adamsllc.ca/static/files/docs/barton-firtop.pdf
+         Saved: 073_BARTON_FIRTOP_YSF_BFI_015_NPT_351__Barton_Firtop_Stock_List_-_Adams_LLC.pdf  (258 KB)
+         Verified: UNKNOWN  [1p, signals=none, part-match=exact]
+    [BARTON FIRTOP YSF/BFI/015/NPT/351] Kept: UNKNOWN  (1 download(s))
+    [Search] BIS RL25-44AE-25N-15K: checking manufacturer sources…
+[71/131]  BARTON FIRTOP YSF/BFI/015/NPT/351  -> 1 file(s)
+
+    [Search] BIS RL25-44AE-25N-15K: no official docs yet — querying search engines…
+    [Search] BIS RL25-44AE-25N-15K: broad web search…

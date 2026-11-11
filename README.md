@@ -1,17 +1,5 @@
 <div align="center">
 
-# 📦 BOM Manual Downloader
-
-**Automatically fetches datasheets for every part in your Bill of Materials and merges them into one clean, ordered PDF.**
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
-[![UI](https://img.shields.io/badge/UI-pywebview-f59e0b?style=for-the-badge)](https://pywebview.flowrl.com)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
-
-</div>
-
 ---
 
 ## 🔄 How It Works
@@ -38,45 +26,6 @@ flowchart LR
 <tr>
 <td width="50%">
 
-### 📥 Smart Downloading
-- Reads **PDF, Excel and Markdown** BOMs
-- Probes manufacturer CDNs directly before web search
-- **Concurrent downloads** — 5 parallel workers by default
-- Live per-part status: Searching → Found / Not Found
-
-</td>
-<td width="50%">
-
-### 📄 Professional PDF Output
-- **Cover page** listing every part with ✓ Found / ✗ Not Found
-- Per-part **divider pages** for easy navigation
-- "Document Not Found" placeholder pages for missing items
-- Cancel mid-run and still get a usable result
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✅ Selective Merging
-- Results page shows a **checkbox** for every found manual
-- All found parts are pre-checked — uncheck what you don't need
-- Uses exact recorded download paths — never picks up stale files
-- Outputs a clean `BOM_Manuals_Selected.pdf`
-
-</td>
-<td width="50%">
-
-### 🔀 Standalone PDF Merger
-- Merge **any PDFs** from your filesystem independently
-- Drag-and-drop file list with ↑ ↓ reordering
-- Drag files onto the drop zone or click to browse
-- Fully separate from the BOM workflow
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🚀 Getting Started
@@ -102,15 +51,15 @@ python main.py
 
 ### `requirements.txt`
 
-| Package | Purpose |
-|---------|---------|
-| `pywebview >= 4.4.1, < 5.0` | Native desktop window |
-| `pdfplumber >= 0.10.0` | Extract text from PDF BOMs |
-| `pypdf >= 3.17.0` | Merge and manipulate PDFs |
-| `reportlab >= 4.0.0` | Generate cover, divider & placeholder pages |
-| `openpyxl >= 3.1.0` | Read Excel BOMs |
-| `requests >= 2.31.0` + `beautifulsoup4 >= 4.12.0` | Download & scrape manufacturer sites |
-| `ddgs >= 6.1.0` | DuckDuckGo search — free, no key needed |
+| Package                                               | Purpose                                     |
+| ----------------------------------------------------- | ------------------------------------------- |
+| `pywebview >= 4.4.1, < 5.0`                         | Native desktop window                       |
+| `pdfplumber >= 0.10.0`                              | Extract text from PDF BOMs                  |
+| `pypdf >= 3.17.0`                                   | Merge and manipulate PDFs                   |
+| `reportlab >= 4.0.0`                                | Generate cover, divider & placeholder pages |
+| `openpyxl >= 3.1.0`                                 | Read Excel BOMs                             |
+| `requests >= 2.31.0` + `beautifulsoup4 >= 4.12.0` | Download & scrape manufacturer sites        |
+| `ddgs >= 6.1.0`                                     | DuckDuckGo search — free, no key needed    |
 
 ---
 
@@ -159,17 +108,17 @@ For higher hit rates on larger BOMs, add API keys in `bom_downloader.py`:
 
 <br/>
 
-| Provider | Variable(s) | Free Tier | Link |
-|----------|-------------|-----------|------|
-| **Nexar** | `NEXAR_CLIENT_ID` / `NEXAR_CLIENT_SECRET` | 1,000 / month | [nexar.com/api](https://nexar.com/api) |
-| **Google CSE** | `GOOGLE_CSE_KEY` / `GOOGLE_CSE_CX` | 100 / day | [console.cloud.google.com](https://console.cloud.google.com) |
-| **Bing Search** | `BING_API_KEY` | 1,000 / month | [Azure Portal](https://portal.azure.com) |
-| **Mouser** | `MOUSER_API_KEY` | Free | [mouser.com/api-hub](https://www.mouser.com/api-hub) |
-| **Farnell / element14** | `FARNELL_API_KEY` | Free | [partner.element14.com](https://partner.element14.com) |
-| **Serper** | `SERPER_API_KEY` | 2,500 / month | [serper.dev](https://serper.dev) |
-| **Tavily** | `TAVILY_API_KEY` | 1,000 / month | [app.tavily.com](https://app.tavily.com) |
-| **Exa** | `EXA_API_KEY` | 1,000 / month | [dashboard.exa.ai](https://dashboard.exa.ai) |
-| **Brave Search** | `BRAVE_API_KEY` | $3 / 1,000 | [brave.com/search/api](https://brave.com/search/api) |
+| Provider                      | Variable(s)                                   | Free Tier     | Link                                                        |
+| ----------------------------- | --------------------------------------------- | ------------- | ----------------------------------------------------------- |
+| **Nexar**               | `NEXAR_CLIENT_ID` / `NEXAR_CLIENT_SECRET` | 1,000 / month | [nexar.com/api](https://nexar.com/api)                       |
+| **Google CSE**          | `GOOGLE_CSE_KEY` / `GOOGLE_CSE_CX`        | 100 / day     | [console.cloud.google.com](https://console.cloud.google.com) |
+| **Bing Search**         | `BING_API_KEY`                              | 1,000 / month | [Azure Portal](https://portal.azure.com)                     |
+| **Mouser**              | `MOUSER_API_KEY`                            | Free          | [mouser.com/api-hub](https://www.mouser.com/api-hub)         |
+| **Farnell / element14** | `FARNELL_API_KEY`                           | Free          | [partner.element14.com](https://partner.element14.com)       |
+| **Serper**              | `SERPER_API_KEY`                            | 2,500 / month | [serper.dev](https://serper.dev)                             |
+| **Tavily**              | `TAVILY_API_KEY`                            | 1,000 / month | [app.tavily.com](https://app.tavily.com)                     |
+| **Exa**                 | `EXA_API_KEY`                               | 1,000 / month | [dashboard.exa.ai](https://dashboard.exa.ai)                 |
+| **Brave Search**        | `BRAVE_API_KEY`                             | $3 / 1,000    | [brave.com/search/api](https://brave.com/search/api)         |
 
 Leave any field blank to skip that backend. A built-in **circuit breaker** automatically disables a backend after 3 consecutive failures — one bad API key won't slow down the entire run.
 
@@ -192,11 +141,11 @@ BomDownloader/
 
 ## ⚙️ Settings
 
-| Setting | Default | Description |
-|---------|---------|-------------|
-| Output folder | `Documents\BOM Manuals` | Where downloads and merged PDFs are saved |
-| Worker threads | `5` | Number of parallel download connections |
-| Skip merging | Off | Download files only, skip the merge step |
+| Setting        | Default                   | Description                               |
+| -------------- | ------------------------- | ----------------------------------------- |
+| Output folder  | `Documents\BOM Manuals` | Where downloads and merged PDFs are saved |
+| Worker threads | `5`                     | Number of parallel download connections   |
+| Skip merging   | Off                       | Download files only, skip the merge step  |
 
 ---
 
@@ -208,10 +157,10 @@ build.bat
 
 That's it — it installs dependencies, runs PyInstaller with `BomDownloader.spec`, and produces:
 
-| Output | Use |
-|--------|-----|
-| `dist\BomDownloader\` | Portable folder — copy to any PC and run `BomDownloader.exe` |
-| `dist\BomDownloader-Portable.zip` | Same thing, zipped for easy transfer |
+| Output                              | Use                                                            |
+| ----------------------------------- | -------------------------------------------------------------- |
+| `dist\BomDownloader\`             | Portable folder — copy to any PC and run`BomDownloader.exe` |
+| `dist\BomDownloader-Portable.zip` | Same thing, zipped for easy transfer                           |
 
 > ⚠️ **Always build via the spec file** (`pyinstaller BomDownloader.spec`).
 > A bare `pyinstaller main.py` does **not** bundle the `ui\` folder or the SSL
@@ -222,6 +171,11 @@ That's it — it installs dependencies, runs PyInstaller with `BomDownloader.spe
 virtually all of them). No Python needed.
 
 ---
+
+
+
+
+.\myvenv\Scripts\python.exe main.py
 
 ## 📜 License
 

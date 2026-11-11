@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "appui", "runtimeExecutable": "python", "runtimeArgs": ["-m","http.server","8778","--directory","ui"], "port": 8778 }
+  ]
+}
